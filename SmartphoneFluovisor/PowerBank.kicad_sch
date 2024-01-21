@@ -2515,7 +2515,7 @@
     (property "Value" "USB_C_24pins" (at 38.1 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Shield1:FPC_12" (at 38.1 77.47 0)
+    (property "Footprint" "Smartphone_Fluovisor:FPC_12" (at 38.1 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 38.1 77.47 0)
